@@ -16,7 +16,8 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-```<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+```
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
@@ -124,7 +125,8 @@ DISCOUNTS WAiTing For the Early birds</strong></p>
 
 </body>
 
-</html>```
+</html>
+```
 
 ## OUTPUT
 ![Screenshot (36)](https://github.com/Priyapugaz/Ex09_Web-Design/assets/127816320/f88c0240-6399-470b-beca-4d6f4209338e)
